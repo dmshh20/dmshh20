@@ -1,4 +1,4 @@
-![Header](https://github.com/dmshh20/dmshh20/blob/main/assets/BliM.gif)
+![Header](https://github.com/dmshh20/dmshh20/blob/main/assets/YQgT.gif)
 
 ## Junior Node js Developer 
 
@@ -18,7 +18,7 @@
 )
 
 ### Contact Me
-![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)(mailto:dmshh12@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)(https://t.me/artemdmysh)
+[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:dmshh12@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/artemdmysh)
 
 
