@@ -3,10 +3,10 @@
 </p>
 
 
-## Junior Node js Developer 
+## Junior Node js Developer 🧑🏽‍💻
 
 
-### Languages and Tools
+### Languages and Tools 💻
 ![NodeJs](https://img.shields.io/badge/Node%20Js-black?style=for-the-badge&logo=nodedotjs
 )
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
@@ -20,8 +20,11 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker
 )
 
-### Contact Me
+### Contact Me 📞
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:dmshh12@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/artemdmysh)
 
 
+### Follow my channels 🪂
+
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/futuresenioro)
