@@ -5,6 +5,6 @@
 Latest Youtube Videos
 
 Languages and Tools
-![Express](https://img.shields.io/badge/NodeJs-blue)
+![Express](https://img.shields.io/badge/NodeJs-blue&logo=javascript)
 
 Follow Me
