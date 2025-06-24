@@ -1,4 +1,7 @@
-![Header](https://github.com/dmshh20/dmshh20/blob/main/assets/YQgT.gif)
+<p align="center">
+  <img src="https://github.com/dmshh20/dmshh20/blob/main/assets/YQgT.gif" alt="Header" />
+</p>
+
 
 ## Junior Node js Developer 
 
