@@ -12,6 +12,8 @@
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![NestJs](https://img.shields.io/badge/Nest%20Js-black?style=for-the-badge&logo=nestjs
 )
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=burgundy
+)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue
 )
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql
@@ -24,6 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=darkgreen
 )
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq&logoColor=burgundy)
 ![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest&logoColor=burgundy
 )
 
@@ -33,6 +36,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/artemdmysh)
 
 
-### Follow my channels 🪂
+<!-- ### Follow my channels 🪂
 
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/futuresenioro)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/futuresenioro) -->
