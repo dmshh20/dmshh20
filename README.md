@@ -18,7 +18,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginxlogoColor=green)
+![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=darkgreen
+)
 
 
 ### Contact Me 📞
