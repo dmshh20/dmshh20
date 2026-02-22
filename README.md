@@ -17,8 +17,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker
-)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginxlogoColor=green)
+
 
 ### Contact Me 📞
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:dmshh12@gmail.com)
